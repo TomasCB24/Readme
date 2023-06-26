@@ -14,6 +14,20 @@
 
 <br />
 
+## Projects
+- **DTechnology e-comerce:** E-comerce project developed with Django Framework. [Repository](https://github.com/TomasCB24/DTechnology)
+- **Quantum models of machine learning:** Final Degree Project for the degree in software engineering at the university of seville, based on the creation of hybrid quantum-classical models for the classification of MNIST images. [Repository](https://github.com/TomasCB24/TFG-Quantum)
+- **Innoweb certification webside:** Webside to generate certifications for university events. [Repository](https://github.com/innosoft-innoweb/innosoft-innoweb-1)
+- **Seven Islands Web Game:** Online Game developed with Spring Boot framework. [Repository](https://github.com/gii-is-DP1/dp1-2021-2022-l8-1)
+- **SarandONGa webside NGO helper:** Web created with django to help in various areas requested by the NGOs ASEM and VidesSur. [Repository](https://github.com/ISPP-12/SarandONGa)
+
+## Work Experience
+- ASEM: Web Developer, Feb 2023 - May 2023
+   - Working on a cross-functional team developing a management application for NGOs using Django Framework. This experience enhanced my skills in full-stack development, database management, and agile methodologies. 
+
+## Education
+- University of Seville: Bachelor's Degree in Software Engineering, 2019-2023
+- 
 <hr>
 <details>
 <summary>💻 Languages and Tools</summary>
@@ -58,18 +72,6 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-        <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-    </td>
-    <td>Sass</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
@@ -82,30 +84,6 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    </td>
-    <td>React</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    </td>
-    <td>Node.js</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
@@ -115,6 +93,17 @@
       <img alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
     </td>
     <td>SQL</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Django" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-django_icon-icons.com_50802.png" />
+    </td>
+    <td>Django</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
@@ -208,7 +197,7 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -229,12 +218,6 @@
 </tr>
 </table>
 
-
-<br />
-<br />
-
----
----
 
 </div>
 
@@ -263,4 +246,4 @@
 <hr>
 
 
-[linkedin]: www.linkedin.com/in/tomás-camero-borrego-b37016281
+[linkedin]: https://www.linkedin.com/in/tomás-camero-borrego-b37016281
