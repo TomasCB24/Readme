@@ -27,7 +27,7 @@
 
 ## Education
 - University of Seville: Bachelor's Degree in Software Engineering, 2019-2023
-- 
+  
 <hr>
 <details>
 <summary>💻 Languages and Tools</summary>
@@ -222,28 +222,5 @@
 </div>
 
 </details>
-
-<hr>
-
-<details>
-  <summary>:bar_chart: GitHub Stats</summary>
-
-  <hr>
-  
-  <div align="center">
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=migromarj&hide=stars&show_icons=true&title_color=2da0ff&icon_color=fb8c00&text_color=f2e96a&bg_color=3d3846&locale=en" alt="migromarj stats" />
-  </p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=migromarj&background=3d3846&dates=2da0ff&currStreakNum=f2e96a&ring=2da0ff&sideLabels=f2e96a&sideNums=f2e96a" alt="migromarj" /></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migromarj&title_color=2da0ff&icon_color=d600ff&text_color=f2e96a&bg_color=3d3846" alt="migromarj" /></p>
-
-</div>
-
-</details>
-
-<hr>
-
 
 [linkedin]: https://www.linkedin.com/in/tomás-camero-borrego-b37016281
