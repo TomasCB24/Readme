@@ -29,7 +29,7 @@
 
 ## Education
 - **University of Seville:** Bachelor's Degree in Software Engineering, 2019-2023
-- **University of Seville:** Master's Degree in Software Engineering: Cloud, Data and IT Management, with specialization in the data branch
+- **University of Seville:** Master's Degree in Software Engineering: Cloud, Data and IT Management, with specialization in the data branch, 2023-2024
   
 <hr>
 <details>
