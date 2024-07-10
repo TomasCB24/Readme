@@ -28,7 +28,8 @@
    - Working on a cross-functional team developing a management application for NGOs using Django Framework. This experience enhanced my skills in full-stack development, database management, and agile methodologies. 
 
 ## Education
-- University of Seville: Bachelor's Degree in Software Engineering, 2019-2023
+- **University of Seville:** Bachelor's Degree in Software Engineering, 2019-2023
+- **University of Seville:** Master's Degree in Software Engineering: Cloud, Data and IT Management, with specialization in the data branch
   
 <hr>
 <details>
@@ -151,7 +152,7 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -175,7 +176,7 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -187,7 +188,7 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
 
