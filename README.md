@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer student in Seville, Spain
 
-- 🌱 I’m currently learning **new frontend and backend technologies :man_technologist:** 
+- 🌱 I’m currently learning **new frontend, backend and big data technologies :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
 - 🥅 2023 Goals: Learn more about **artificial intelligence** and realize more **open source projects**.
 - 😻 Fun fact: **I love cats and quantum computing**.
