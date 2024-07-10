@@ -15,7 +15,7 @@
 <br />
 
 ## Projects
-- **Confiabilidad de Modelos de Lenguaje:** Project where we sought to capture the studies of the article "METAL" with metamorphic tests in two famous LLMs such as BARD and BING Chat, now called Gemini and Copilot. [Repository](https://github.com/TomasCB24/MLE-MT-LM)
+- **Reliability of Language Models:** Project where we sought to capture the studies of the article "METAL" with metamorphic tests in two famous LLMs such as BARD and BING Chat, now called Gemini and Copilot. [Repository](https://github.com/TomasCB24/MLE-MT-LM)
 - **VizKafka:** Project where we sought to use Apache Kafka and Grafana to simulate the data flow of a fully domotized home with a multitude of devices. [Repository](https://github.com/TomasCB24/VizKafka)
 - **DTechnology e-comerce:** E-comerce project developed with Django Framework. [Repository](https://github.com/TomasCB24/DTechnology)
 - **Quantum models of machine learning:** Final Degree Project for the degree in software engineering at the university of seville, based on the creation of hybrid quantum-classical models for the classification of MNIST images. [Repository](https://github.com/TomasCB24/TFG-Quantum)
