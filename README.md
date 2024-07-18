@@ -1,6 +1,6 @@
 # Hi there, I'm Tomás - aka @TomasCB24 👋 
 
-## I'm a Software Engineer student in Seville, Spain
+## I'm a Software Engineer in Seville, Spain
 
 - 🌱 I’m currently learning **new frontend, backend and big data technologies :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
